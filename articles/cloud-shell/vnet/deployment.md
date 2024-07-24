@@ -230,6 +230,8 @@ reset your user settings:
 Resetting the user settings triggers the first-time user experience the next time you start Cloud
 Shell.
 
+Follow below if you are using new UI
+
 [![Screenshot of the Cloud Shell storage dialog.][97a]][97b]
 
 1. Choose your preferred shell experience (Bash or PowerShell).
